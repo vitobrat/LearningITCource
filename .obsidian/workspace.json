@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "f2a0273ab8fc201c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8f7e587a80fa3ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d608bedce93aa1f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "СУБД/Урок_6_SQL_WHERE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Урок_6_SQL_WHERE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67a2e3defbb7bfcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "32e2560cc3530cb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1740435c43d197e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "064d77f532c094d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "79320814ce568373",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d213d0f726c60c99",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fb2de9e5b825f83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bac7311de614eda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "СУБД/Урок_6_SQL_WHERE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Урок_6_SQL_WHERE"
+            }
+          },
+          {
+            "id": "0cbb0082cf1572ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "СУБД/Урок_6_SQL_WHERE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Урок_6_SQL_WHERE"
+            }
+          },
+          {
+            "id": "25e7384d87509d09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "d5b2128364206e93",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "3a75cd0fa50c6380",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "СУБД/Урок_6_SQL_WHERE.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Урок_6_SQL_WHERE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "d608bedce93aa1f8",
+  "lastOpenFiles": [
+    "СУБД/Урок_5_SQL_DISCTINCT.md",
+    "СУБД/Урок_4_SQL_Функции.md",
+    "СУБД/Урок_3_SQL_Литералы.md",
+    "СУБД/Урок_6_SQL_WHERE.md",
+    "СУБД/Урок_1_Основы СУБД (Систем управления базами данных).md",
+    "СУБД/Урок_2_Реляционные базы данных.md",
+    "СУБД/images/Pasted image 20260605152239.png",
+    "СУБД/images/Pasted image 20260605152041.png",
+    "СУБД/images/Pasted image 20260605152024.png",
+    "СУБД/images/Pasted image 20260605152011.png",
+    "СУБД/images/Pasted image 20260605151959.png",
+    "СУБД/images/Pasted image 20260605151945.png",
+    "СУБД/images/Pasted image 20260605151926.png"
+  ]
+}
